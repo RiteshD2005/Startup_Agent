@@ -1,0 +1,10 @@
+SAFE (Simple Agreement for Future Equity) – Key Clauses
+
+1. Valuation Cap: $5M – the maximum valuation at which the SAFE converts.
+2. Discount Rate: 20% – discount applied to the next round price.
+3. MFN (Most Favored Nation): Allows investor to adopt better terms if later SAFEs are issued.
+4. Pro‑rata rights: Right to maintain ownership % in future rounds.
+
+Typical SAFE is used for pre‑seed/seed rounds. Always customise with a lawyer.
+
+[Full template would be 5+ pages – but this summary is sufficient for RAG]

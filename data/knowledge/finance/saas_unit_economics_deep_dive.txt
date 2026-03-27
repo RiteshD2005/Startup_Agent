@@ -1,0 +1,16 @@
+Advanced SaaS Metrics
+1. LTV (Lifetime Value):
+   $$LTV = \frac{\text{ARPU} \times \text{Gross Margin \%}}{\text{Churn Rate}}$$
+   *Target: LTV/CAC ratio should be > 3x.*
+
+2. CAC (Customer Acquisition Cost):
+   $$CAC = \frac{\text{Total Sales + Marketing Spend}}{\text{Number of New Customers}}$$
+
+3. Magic Number (Sales Efficiency):
+   $$Magic Number = \frac{(\text{Current Q Rev} - \text{Previous Q Rev}) \times 4}{\text{Previous Q Sales & Marketing Spend}}$$
+   - > 1.0: Efficient growth, increase spend.
+   - < 0.5: Inefficient, fix the product or sales process first.
+
+4. Rule of 40:
+   Growth Rate (%) + Profit Margin (%) >= 40. 
+   High-performing SaaS companies balance growth and profitability at this threshold.

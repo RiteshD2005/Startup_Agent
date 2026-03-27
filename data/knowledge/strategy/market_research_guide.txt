@@ -1,0 +1,27 @@
+Market Research Steps (Startup Edition)
+
+1. Define the problem and target audience
+   - Who has the problem? (company size, role, industry)
+   - How painful is it? (cost, time, frustration)
+
+2. Secondary research
+   - Industry reports (Gartner, CB Insights, Statista)
+   - Competitor websites and reviews (G2, Capterra)
+   - Funding announcements (Crunchbase)
+
+3. Primary research
+   - Interview 10–15 potential customers (30 min each)
+   - Use open‑ended questions to discover unmet needs
+   - Validate willingness to pay with “Would you pay $X/month?”
+
+4. Analyse market size
+   - TAM (Total Addressable Market): all potential customers
+   - SAM (Serviceable Available Market): those you can realistically reach
+   - SOM (Serviceable Obtainable Market): first‑year target
+
+5. Synthesise insights
+   - Create 2–3 customer personas
+   - Map competitor positioning
+   - Identify whitespace opportunities
+
+Output: 10‑page market research deck or Notion summary.

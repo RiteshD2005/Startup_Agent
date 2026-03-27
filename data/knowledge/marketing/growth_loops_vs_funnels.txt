@@ -1,0 +1,18 @@
+The Growth Loop Framework (Sustainable Scaling)
+Concept: Move away from linear funnels (Acquisition -> Retention -> Referral) toward self-reinforcing loops.
+
+1. Viral Loops (User-to-User):
+   - New user -> Invites coworkers/friends -> New user joins -> Loop repeats.
+   - Metric: Viral Coefficient (k) where $k = (\text{invites per user}) \times (\text{conversion rate})$.
+
+2. Content Loops (SEO/Social):
+   - Company/User creates content -> Indexed by Search/Social -> New user finds content -> New user joins -> Loop repeats.
+
+3. Paid Loops (Reinvestment):
+   - New user -> Generates Revenue -> Reinvest in Ads -> New user joins -> Loop repeats.
+   - Requirement: $LTV > CAC$ and Payback Period < 6 months.
+
+4. Product-Led Growth (PLG) Principles:
+   - Self-serve onboarding.
+   - Value realized BEFORE paywall (Freemium or Reverse Trial).
+   - In-app expansion hooks.

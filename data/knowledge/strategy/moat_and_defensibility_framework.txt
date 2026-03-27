@@ -1,0 +1,14 @@
+Strategic Defensibility (The 7 Powers)
+1. Economies of Scale: Unit costs decline as volume increases. 
+   - Strategy: Centralize purchasing or automate infrastructure.
+2. Network Effects: Product value increases with each new user.
+   - Strategy: Build features that encourage multi-player collaboration (e.g., Slack, Figma).
+3. Switching Costs: High "pain of exit."
+   - Strategy: Deep integration with client APIs/workflows; high data gravity.
+4. Branding: Trust premium.
+   - Strategy: Focus on category leadership and "best-in-class" positioning.
+5. Cornered Resource: Exclusive access to a valuable asset (IP, talent, or data).
+   - Strategy: Patent core algorithms; exclusive data partnerships.
+6. Counter-Positioning: A new business model that incumbents cannot copy without hurting their existing business.
+   - Strategy: Radical pricing transparency vs. opaque industry standards.
+7. Process Power: Embedded organizational knowledge that is hard to replicate (e.g., Toyota Production System).

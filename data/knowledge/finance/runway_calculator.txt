@@ -1,0 +1,13 @@
+Runway Calculator (Monthly)
+
+Current Cash = $500,000
+Monthly Burn = $50,000 (salaries + marketing + cloud + office)
+
+Runway = Cash / Burn = 10 months
+
+To extend runway:
+- Reduce burn: freeze hiring, cut non‑essential tools
+- Increase revenue: shorten sales cycles, upsell
+- Raise more capital
+
+When runway < 6 months, start fundraising process.

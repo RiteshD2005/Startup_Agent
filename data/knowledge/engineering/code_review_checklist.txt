@@ -1,0 +1,22 @@
+Code Review Checklist
+
+1. Functionality
+   - Does the code do what the spec says?
+   - Are edge cases handled?
+
+2. Readability
+   - Clear variable names, comments for non‑obvious logic
+   - No duplicate code (DRY)
+
+3. Performance
+   - No N+1 queries in ORM
+   - Avoid unnecessary loops inside loops
+
+4. Security
+   - No secrets hard‑coded
+   - Input validation and parameterised queries
+   - Proper authentication/authorisation checks
+
+5. Tests
+   - Unit tests cover new logic
+   - Integration tests for critical paths

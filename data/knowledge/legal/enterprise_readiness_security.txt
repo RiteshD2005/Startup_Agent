@@ -1,0 +1,12 @@
+B2B Enterprise Readiness Checklist
+1. SOC2 Type II Compliance: 
+   - Independent audit of security, availability, and confidentiality.
+   - Required for selling to Mid-market and Enterprise.
+2. Data Processing Agreement (DPA):
+   - Essential for GDPR/CCPA. Defines how you handle customer data.
+3. Service Level Agreements (SLA):
+   - Define uptime guarantees (e.g., 99.9%) and support response times.
+4. SSO (Single Sign-On):
+   - Support for Okta, Azure AD, or SAML. Often a "premium" feature.
+5. Role-Based Access Control (RBAC):
+   - Granular permissions (Admin, Editor, Viewer).

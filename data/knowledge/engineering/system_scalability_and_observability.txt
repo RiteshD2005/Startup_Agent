@@ -1,0 +1,15 @@
+Scaling the Technical Infrastructure
+1. Database Scaling:
+   - Read Replicas: Offload SELECT queries to slave nodes.
+   - Vertical vs. Horizontal Scaling: Scale up (more RAM) vs. Scale out (more instances).
+   - Sharding: Partitioning data by UserID across multiple DBs.
+
+2. Observability (The Three Pillars):
+   - Metrics: Aggregate data over time (CPU usage, Request/Sec).
+   - Logging: Discrete events (Error stack traces, Auth attempts).
+   - Tracing: End-to-end journey of a request across microservices.
+
+3. Resilience Patterns:
+   - Circuit Breakers: Stop calling a failing service to prevent cascading failures.
+   - Retries with Exponential Backoff: Don't spam a struggling server; wait longer between attempts.
+   - Rate Limiting: Protect the API from "noisy neighbors" or DDoS.

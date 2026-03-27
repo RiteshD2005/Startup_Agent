@@ -1,0 +1,22 @@
+Privacy Policy Outline
+
+1. Information we collect
+   - Personal data (name, email, payment info)
+   - Usage data (cookies, IP, device)
+
+2. How we use information
+   - Provide service, improve, communicate, prevent fraud
+
+3. Sharing of information
+   - Service providers, legal compliance, business transfers
+
+4. Your rights
+   - Access, correction, deletion (GDPR/CCPA compliance)
+
+5. Data retention
+   - As long as account is active, plus reasonable period
+
+6. Security measures
+   - Encryption, access controls, regular audits
+
+Placeholders: [COMPANY NAME], [COUNTRY], [DATA PROTECTION OFFICER EMAIL]

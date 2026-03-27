@@ -1,0 +1,14 @@
+Investor Pitch Deck (12 slides)
+
+1. Problem (1 slide): The pain you solve, with data.
+2. Solution (1): Your product, key features.
+3. Market (1): TAM, SAM, SOM.
+4. Business model (1): Pricing, revenue streams.
+5. Traction (1): Revenue, users, partnerships.
+6. Competition (1): Landscape and your unfair advantage.
+7. Team (1): Founders and key hires.
+8. Financials (1): 3‑year projections, unit economics.
+9. Ask (1): Amount, use of funds, milestones.
+10-12. Appendix: demo screenshots, customer testimonials.
+
+Placeholders: $X MRR, Y% MoM growth.

@@ -1,0 +1,10 @@
+Objective: [e.g., Validate product‑market fit for our inventory SaaS]
+Key Results:
+1. Conduct 20 customer interviews with target personas.
+2. Achieve 30% demo‑to‑signup conversion on landing page.
+3. Define and prioritise MVP feature set with at least 3 paying pilot customers.
+4. Get 5 letters of intent from early adopters.
+
+Notes:
+- KRs must be measurable, time‑bound (quarterly).
+- Align KRs across strategy, product, and marketing.
